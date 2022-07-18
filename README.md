@@ -26,3 +26,6 @@ Python loops and functions are enough to build this game here.
 
 10. Main() and hangman() would start again if the play_loop executes to yes.
 
+## Output
+
+![image](https://user-images.githubusercontent.com/60151306/179450248-676b7d74-7f9b-4954-bdd4-32e35257b1c2.png)
