@@ -28,4 +28,6 @@ Python loops and functions are enough to build this game here.
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/60151306/179450248-676b7d74-7f9b-4954-bdd4-32e35257b1c2.png)
+![image](https://user-images.githubusercontent.com/60151306/179450621-79021e39-fce2-458c-b022-269959206f86.png)
+![image](https://user-images.githubusercontent.com/60151306/179450677-772459bd-ef31-48ed-8d64-6155d5beadca.png)
+
